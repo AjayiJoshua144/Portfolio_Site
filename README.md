@@ -11,14 +11,9 @@
 - Contact information
 
 # Technologies
-HTML5
-CSS3
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 # Purpose
 Developed as a personal portfolio to showcase my technical development and projects as an Information Technology student.
-
-# Author
-
-Ajayi Joshua Abayomi
-Information Technology Student
