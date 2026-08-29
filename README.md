@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-**A student-built responsive personal portfolio website showcasing my IT skills, cybersecurity projects, certifications, and technical interests.**
+**A student-built responsive personal portfolio website showcasing my IT skills, projects, certifications, and technical interests.**
 
 # Features
 - Responsive design for desktop and mobile
